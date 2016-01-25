@@ -12,6 +12,7 @@ gem 'spring',        group: :development # Spring speeds up development by keepi
 gem 'devise' # authentification user gem
 gem 'twitter-bootstrap-rails' # scaffold for bootstrap
 gem 'devise-bootstrap-views'
+gem 'stock_quote'
 
 group :development do
   
